@@ -60,6 +60,12 @@ git branch -r (nome da branch local) (nome do repositorio remoto/nome da branch 
 ##Comando para criar e trocar para branch:
 git checkout -b (nome da branch)
 
+##Comando para trazer os commits de uma outra branch:
+git merge (nome da branch com os commits)
+
+##Comando para atualizar uma branch com base em outra:
+git rebase (nome da branch de base) (nome da branch a ser atualizada)
+
 
 
 
