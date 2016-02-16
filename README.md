@@ -57,6 +57,11 @@ git pull
 ##Comando para criar uma branch local e associar a uma branch remota:
 git branch -r (nome da branch local) (nome do repositorio remoto/nome da branch remota)
 
+##Comando para criar e trocar para branch:
+git checkout -b (nome da branch)
+
+
+
 
 
 
