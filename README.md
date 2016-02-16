@@ -51,7 +51,8 @@ git branch (nome da branch)
 ##Comando para mudar a branch:
 git checkout (nome da branch)
 
-
+##Comando para atualizar as branchs do repositorio local com as do remoto:
+git pull
 
 
 
