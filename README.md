@@ -18,3 +18,9 @@ git init
 ### git add commit -m 
 ###git remote add origin (URL do repositorio)
 ###git push -u origin master
+
+##Comando para mostrar o status do repositorio:
+git status
+
+##Comando para listar os arquivos no repositorio que sao controlados pelo git
+git ls-files
