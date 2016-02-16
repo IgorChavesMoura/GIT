@@ -37,7 +37,7 @@ se passar a flag -p ele mostra as linhas que foram alteradas
 git remote add origin (URL do repositorio github)
 
 ##Comando para adicionar arquivos no repositorio remoto:
-git push (nome do repositorio remoto) (nome da branch)
+git push -u (nome do repositorio remoto) (nome da branch)
 
 nome do repositorio geralmente é origin
 nome da branch geralmente é master
