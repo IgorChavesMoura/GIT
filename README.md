@@ -9,3 +9,5 @@ git clone URL
 ##Acessar uma versao de um arquivo por tag:
 git diff tag
 
+##Inicializar um repositorio:
+git init
