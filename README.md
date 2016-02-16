@@ -11,3 +11,10 @@ git diff tag
 
 ##Inicializar um repositorio:
 git init
+
+##Passos para adicionar um arquivo no repositorio:
+
+###git add nomedoarquivo
+### git add commit -m 
+###git remote add origin URL do repositorio
+###git push -u origin master
