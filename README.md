@@ -32,10 +32,19 @@ git log
 git remote add origin (URL do repositorio github)
 
 ##Comando para adicionar arquivos no repositorio remoto:
-git push (nome do repositorio remoto) (nome da branch)
+git push -u (nome do repositorio remoto) (nome da branch)
 
 nome do repositorio geralmente é origin
 nome da branch geralmente é master
+
+##Comando para checar quais branchs existem no repositorio:
+git branch
+
+##Comando para criar uma nova branch:
+git branch (nome da branch)
+
+##Comando para mudar a branch:
+git checkout (nome da branch)
 
 
 
