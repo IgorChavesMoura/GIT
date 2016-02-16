@@ -74,6 +74,23 @@ git reset HEAD (nome do arquivo)
 
 para escolher o commit no lugar do HEAD poe o identificador(hash) do commit
 
+##Comando para desfazer um commit:
+git revert (identificador do commit)
+
+##Comando para guardar alterações que nao foram commitadas:
+git stash
+
+##Comando para ver o que tem dentro do stash:
+git stash list
+
+##Comando para aplicar as alterações no stash:
+git stash apply
+
+##Comando para zera o stash:
+git stash drop
+
+
+
 
 
 
