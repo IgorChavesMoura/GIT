@@ -66,6 +66,13 @@ git merge (nome da branch com os commits)
 ##Comando para atualizar uma branch com base em outra:
 git rebase (nome da branch de base) (nome da branch a ser atualizada)
 
+##Comando para voltar um arquivo para o ultimo commit:
+git checkout (nome do arquivo)
+
+##Comando para voltar um arquivo para o ultimo estado antes de ser commitado:
+git reset HEAD (nome do arquivo)
+
+para escolher o commit no lugar do HEAD poe o identificador(hash) do commit
 
 
 
