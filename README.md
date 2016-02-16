@@ -28,6 +28,11 @@ git commit -m "mensagem"
 ##Comando para mostrar o histórico de commits:
 git log
 
+##Comando para mostrar as mudanças feitas em cada commit:
+git whatchanged
+
+se passar a flag -p ele mostra as linhas que foram alteradas
+
 ##Comando para criar repositorio remoto:
 git remote add origin (URL do repositorio github)
 
@@ -36,6 +41,15 @@ git push (nome do repositorio remoto) (nome da branch)
 
 nome do repositorio geralmente é origin
 nome da branch geralmente é master
+
+##Comando para checar quais branchs existem no repositorio:
+git branch
+
+##Comando para criar uma nova branch:
+git branch (nome da branch)
+
+##Comando para mudar a branch:
+git checkout (nome da branch)
 
 
 
