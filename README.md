@@ -14,7 +14,7 @@ git init
 
 ##Passos para adicionar um arquivo no repositorio:
 
-###git add nomedoarquivo
+###git add (nomeDoArquivo)
 ### git add commit -m 
-###git remote add origin URL do repositorio
+###git remote add origin (URL do repositorio)
 ###git push -u origin master
