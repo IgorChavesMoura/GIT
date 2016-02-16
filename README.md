@@ -54,6 +54,11 @@ git checkout (nome da branch)
 ##Comando para atualizar as branchs do repositorio local com as do remoto:
 git pull
 
+##Comando para criar uma branch local e associar a uma branch remota:
+git branch -r (nome da branch local) (nome do repositorio remoto/nome da branch remota)
+
+
+
 
 
 
