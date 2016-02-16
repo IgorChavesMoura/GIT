@@ -12,15 +12,33 @@ git diff tag
 ##Inicializar um repositorio:
 git init
 
-##Passos para adicionar um arquivo no repositorio:
-
-###git add (nomeDoArquivo)
-### git add commit -m 
-###git remote add origin (URL do repositorio)
-###git push -u origin master
 
 ##Comando para mostrar o status do repositorio:
 git status
 
-##Comando para listar os arquivos no repositorio que sao controlados pelo git
+##Comando para listar os arquivos no repositorio que sao controlados pelo git:
 git ls-files
+
+##Comando para fazer o git monitorar um arquivo no repositorio:
+git add (arquivo)
+
+##Comando para fazer o commit:
+git commit -m "mensagem"
+
+##Comando para mostrar o histórico de commits:
+git log
+
+##Comando para criar repositorio remoto:
+git remote add origin (URL do repositorio github)
+
+##Comando para adicionar arquivos no repositorio remoto:
+git push (nome do repositorio remoto) (nome da branch)
+
+nome do repositorio geralmente é origin
+nome da branch geralmente é master
+
+
+
+
+
+
