@@ -89,6 +89,10 @@ git stash apply
 ##Comando para zera o stash:
 git stash drop
 
+##Comando para trazer alteracoes de um repositorio remoto:
+git fetch
+
+
 
 
 
