@@ -92,6 +92,9 @@ git stash drop
 ##Comando para trazer alteracoes de um repositorio remoto:
 git fetch (nome do repositorio)
 
+##Comando para trazer apenas um commit especifico para a branch atual:
+git cherry-pick (hash do commit)
+
 
 
 
