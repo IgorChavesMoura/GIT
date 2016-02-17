@@ -90,7 +90,8 @@ git stash apply
 git stash drop
 
 ##Comando para trazer alteracoes de um repositorio remoto:
-git fetch
+git fetch (nome do repositorio)
+
 
 
 
